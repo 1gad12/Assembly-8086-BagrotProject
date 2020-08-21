@@ -3,6 +3,8 @@ As part of the bagrot I required to do a Assembly 8086 BagrotProject and what we
 
 there is a book in hebrew i very recommend to read it
 
+The Code is in the Source
+
 to play you need to download dosbox
 now go to dosbox-options
 and write in the bottom "cycles=max"
